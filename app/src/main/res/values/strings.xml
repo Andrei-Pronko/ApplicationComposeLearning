@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApplicationComposeLearning</string>
+
+    <string name="cant_find_asset_add_new">Can`t find the asset. Need to add a new one?</string>
+</resources>
